@@ -1,4 +1,4 @@
-# Create a dtaset, table and view with unit test
+# Create a dataset, table and view with unit test
 
 ## Step 1: Create a table and view in a dataset
 
